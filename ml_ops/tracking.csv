@@ -1,0 +1,2 @@
+Version,Start Time,End Time,Source,Parameters,Metrics,Artifacts
+1.0,2024-05-10 08:18:19.249920,2024-05-10 08:18:20.478274,model_training.py,{'n_samples': 100, 'noise': 0.1, 'random_state': 42},{'r2_score': 0.9999945205426068},{'model.pkl': LinearRegression()}
