@@ -3,5 +3,4 @@ numpy
 psycopg2
 matplotlib
 scikit-learnscikit-learn
-sqlalchemy
 
