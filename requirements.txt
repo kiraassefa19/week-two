@@ -1,5 +1,7 @@
-numpy
 pandas
-scikit-learn
+numpy
+psycopg2
+matplotlib
+scikit-learnscikit-learn
 sqlalchemy
 
